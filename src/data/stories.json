@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "title": "Buddy Finds a Home",
+    "description": "Buddy was rescued from the streets and found a loving family. His transformation is inspiring!",
+    "content": "Buddy was found malnourished and scared. After months of care and love, he's now a happy, healthy dog with a forever home.",
+    "image": "/api/placeholder/600/400",
+    "date": "2024-01-20T00:00:00Z",
+    "author": "Admin User"
+  },
+  {
+    "id": 2,
+    "title": "Community Comes Together",
+    "description": "How our community saved 50 animals in one month",
+    "content": "Through collective effort, we rescued and rehomed 50 animals. This shows the power of community action.",
+    "image": "/api/placeholder/600/400",
+    "date": "2024-02-01T00:00:00Z",
+    "author": "Admin User"
+  }
+]
+

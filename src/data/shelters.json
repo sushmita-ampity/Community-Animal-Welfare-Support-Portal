@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Main Shelter",
+    "capacity": 100,
+    "currentOccupancy": 45,
+    "location": "New Delhi",
+    "feedingSchedule": [
+      {
+        "time": "08:00",
+        "meal": "Breakfast"
+      },
+      {
+        "time": "14:00",
+        "meal": "Lunch"
+      },
+      {
+        "time": "19:00",
+        "meal": "Dinner"
+      }
+    ],
+    "resources": {
+      "food": 500,
+      "medicine": 200,
+      "bedding": 100
+    }
+  }
+]
+

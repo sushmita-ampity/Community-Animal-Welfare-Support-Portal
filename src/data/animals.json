@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "type": "Dog",
+    "name": "Buddy",
+    "breed": "Golden Retriever",
+    "age": 2,
+    "condition": "Healthy",
+    "severity": "Low",
+    "description": "Friendly dog found near park",
+    "location": {
+      "latitude": 28.6139,
+      "longitude": 77.2090,
+      "address": "New Delhi, India"
+    },
+    "status": "Available for Adoption",
+    "reportedBy": 3,
+    "reportedAt": "2024-01-10T00:00:00Z",
+    "assignedVolunteer": 2,
+    "healthRecords": [],
+    "image": "/api/placeholder/400/300"
+  },
+  {
+    "id": 2,
+    "type": "Cat",
+    "name": "Whiskers",
+    "breed": "Persian",
+    "age": 1,
+    "condition": "Injured",
+    "severity": "Medium",
+    "description": "Cat with leg injury found on street",
+    "location": {
+      "latitude": 28.7041,
+      "longitude": 77.1025,
+      "address": "Noida, India"
+    },
+    "status": "Under Treatment",
+    "reportedBy": 3,
+    "reportedAt": "2024-01-20T00:00:00Z",
+    "assignedVolunteer": 2,
+    "healthRecords": [
+      {
+        "id": 1,
+        "date": "2024-01-20T00:00:00Z",
+        "type": "Treatment",
+        "description": "Leg injury treatment",
+        "veterinarian": "Dr. Smith"
+      }
+    ],
+    "image": "/api/placeholder/400/300"
+  },
+  {
+    "id": 3,
+    "type": "Dog",
+    "name": "Max",
+    "breed": "Labrador",
+    "age": 3,
+    "condition": "Healthy",
+    "severity": "Low",
+    "description": "Well-behaved dog looking for home",
+    "location": {
+      "latitude": 28.5355,
+      "longitude": 77.3910,
+      "address": "Gurgaon, India"
+    },
+    "status": "Available for Adoption",
+    "reportedBy": 2,
+    "reportedAt": "2024-02-05T00:00:00Z",
+    "assignedVolunteer": null,
+    "healthRecords": [],
+    "image": "/api/placeholder/400/300"
+  }
+]
+

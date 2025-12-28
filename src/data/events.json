@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "title": "Community Pet Adoption Fair",
+    "description": "Join us for a day of pet adoption and community bonding",
+    "date": "2024-03-15T10:00:00Z",
+    "location": "Central Park, New Delhi",
+    "status": "Upcoming",
+    "createdBy": 1
+  },
+  {
+    "id": 2,
+    "title": "Volunteer Training Workshop",
+    "description": "Learn how to care for animals in need",
+    "date": "2024-02-20T14:00:00Z",
+    "location": "Community Center",
+    "status": "Completed",
+    "createdBy": 1
+  }
+]
+

@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "userId": 2,
+    "assignedTasks": [
+      {
+        "id": 1,
+        "animalId": 1,
+        "task": "Daily feeding",
+        "status": "Completed",
+        "date": "2024-01-20T00:00:00Z"
+      },
+      {
+        "id": 2,
+        "animalId": 2,
+        "task": "Medical checkup",
+        "status": "In Progress",
+        "date": "2024-02-15T00:00:00Z"
+      }
+    ],
+    "totalHours": 45,
+    "specialization": "Animal Care"
+  }
+]
+

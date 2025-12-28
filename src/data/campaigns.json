@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Adopt Don't Shop Campaign",
+    "description": "Encouraging community members to adopt animals instead of buying",
+    "startDate": "2024-01-01T00:00:00Z",
+    "endDate": "2024-12-31T00:00:00Z",
+    "status": "Active",
+    "createdBy": 1,
+    "image": "/api/placeholder/800/400"
+  },
+  {
+    "id": 2,
+    "title": "Vaccination Drive",
+    "description": "Free vaccination camp for stray animals",
+    "startDate": "2024-03-01T00:00:00Z",
+    "endDate": "2024-03-31T00:00:00Z",
+    "status": "Upcoming",
+    "createdBy": 1,
+    "image": "/api/placeholder/800/400"
+  }
+]
+

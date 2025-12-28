@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "animalId": 1,
+    "userId": 3,
+    "type": "Adoption",
+    "status": "Approved",
+    "submittedAt": "2024-01-12T00:00:00Z",
+    "approvedAt": "2024-01-15T00:00:00Z",
+    "approvedBy": 1,
+    "notes": "Approved after home visit"
+  },
+  {
+    "id": 2,
+    "animalId": 2,
+    "userId": 3,
+    "type": "Foster",
+    "status": "Pending",
+    "submittedAt": "2024-01-25T00:00:00Z",
+    "approvedAt": null,
+    "approvedBy": null,
+    "notes": "Waiting for animal recovery"
+  }
+]
+

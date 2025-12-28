@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Admin User",
+    "email": "admin@animalwelfare.com",
+    "password": "admin123",
+    "role": "ADMIN",
+    "phone": "1234567890",
+    "createdAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": 2,
+    "name": "John Volunteer",
+    "email": "volunteer@example.com",
+    "password": "volunteer123",
+    "role": "VOLUNTEER",
+    "phone": "9876543210",
+    "createdAt": "2024-01-15T00:00:00Z"
+  },
+  {
+    "id": 3,
+    "name": "Jane Doe",
+    "email": "user@example.com",
+    "password": "user123",
+    "role": "USER",
+    "phone": "5555555555",
+    "createdAt": "2024-02-01T00:00:00Z"
+  }
+]
+

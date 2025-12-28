@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "userId": 3,
+    "type": "Monetary",
+    "amount": 5000,
+    "description": "Monthly donation for animal care",
+    "date": "2024-01-15T00:00:00Z",
+    "purpose": "General",
+    "status": "Received"
+  },
+  {
+    "id": 2,
+    "userId": 3,
+    "type": "In-Kind",
+    "amount": 0,
+    "description": "Dog food - 50kg bags",
+    "date": "2024-02-01T00:00:00Z",
+    "purpose": "Food",
+    "status": "Received"
+  },
+  {
+    "id": 3,
+    "userId": 2,
+    "type": "Monetary",
+    "amount": 10000,
+    "description": "Emergency medical fund",
+    "date": "2024-02-10T00:00:00Z",
+    "purpose": "Medical",
+    "status": "Received"
+  }
+]
+
